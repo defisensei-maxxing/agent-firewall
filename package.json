@@ -1,0 +1,11 @@
+{
+  "name": "agent-firewall",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node run-tests.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "*"
+  }
+}
